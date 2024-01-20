@@ -4,11 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-I'm a passionate data analyst with a knack for transforming raw data into actionable insights. 🚀 Currently exploring the vast landscapes of data science, I thrive on uncovering patterns, extracting meaningful information, and telling compelling stories through data.
+I'm a passionate data analyst with a knack for transforming raw data into actionable insights. 
+
+🚀 Currently exploring the vast landscapes of data science, I thrive on uncovering patterns, extracting meaningful information, and telling compelling stories through data.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [otolulope925@gmail.com](mailto:otolulope925@gmail.com)
-* ⚡  📈 In a world full of data, let's turn the noise into insights.
+
+⚡  📈 In a world full of data, let's turn the noise into insights.
 
 ### Skills
 
@@ -21,7 +24,7 @@ I'm a passionate data analyst with a knack for transforming raw data into action
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tolulopeoa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tolulopeokerayi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/tolulopeoa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
+  
 ### Badges
 
 <b>My GitHub Stats</b>
